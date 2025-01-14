@@ -1,0 +1,11 @@
+components:
+  language_switcher:
+    change_language: change language
+  theme_switcher:
+    theme: theme
+    change_theme: change theme
+pages:
+  index:
+    title: nuxt 3[]awesome[]starter
+  404:
+    title: page not found
